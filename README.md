@@ -7,12 +7,13 @@ apt update && apt upgrade -y
 
 git clone  https://github.com/Anonymous24-sasser/ExtrapolarBins.git
 
-cd Bin_Resucitate
+#cd Bin_Resucitate
 
-chmod 777 Bin_Resucitate.sh
+#chmod 777 Bin_Resucitate.sh
 
-./Bin_Resucitate.sh
-bash Bin_Resucitate.sh
+#./Bin_Resucitate.sh
+
+#bash Bin_Resucitate.sh
 
 
 
