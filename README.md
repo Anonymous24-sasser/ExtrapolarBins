@@ -12,6 +12,7 @@ cd Bin_Resucitate
 chmod 777 Bin_Resucitate.sh
 
 ./Bin_Resucitate.sh
+bash Bin_Resucitate.sh
 
 
 
